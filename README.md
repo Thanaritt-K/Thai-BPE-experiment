@@ -40,4 +40,4 @@ I believe that BPE would lead to interesting applications of morphemic analysis,
 
 ## 4 Code
 
-The code to the experiment is available online at: https://github.com/Thanaritt-K/Thai-BPE-EXP
+The code to the experiment is available online at: https://github.com/Thanaritt-K/Thai-BPE-experiment
