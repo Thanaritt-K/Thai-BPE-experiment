@@ -32,7 +32,7 @@ With the low amount of manually created test sentences, I don’t think any kind
 
 ## 3 Results
 
-For BPE I’ve experimented with 3 level of vocabulary size: 500, 3000, and 5000. (Similar to previous work in Heinzerling & Strube, 2018) The results have shown some semblances to the morphemes.
+For BPE I’ve experimented with 3 level of vocabulary size: 500, 3000, and 5000. (Similar to previous work in Heinzerling & Strube, 2018) The results have shown some semblances to the morphemes, but the best results are from size=3000 when tested with a test sentence not in the training dataset.
 
 While syllable-based is, as the name suggested, tokenizing the utterance based on the syllable boundaries, which occasionally coincides with morphemic boundaries.  This could leads to overtokenization, nonetheless, as although Thai is commonly thought to be a monosyllabic language like Chinese, many words are disyllabic and trisyllabic. Most disyllabic words are names of plants and animals. Others are Khmer-related.(Siripong Potisuk, 2009)
 
